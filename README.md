@@ -1,4 +1,4 @@
-Kargo Şirketinin ihtiyacı doğrultusunda hazırlanan, küçülmeye gidilmesi
+Kargo şirketinin ihtiyacı doğrultusunda hazırlanan, küçülmeye gidilmesi
 durumunda öncelikli kapatılacak şubelerin tespiti için karar destek sistemi
 oluşturulmuştur. Ayrıca personel verimliliğini arttırmak adına verilen performans
 puanlarının takibi ve ortalama performans puanını (5.0) düşüren personellerin tespit
