@@ -1,6 +1,1 @@
-Kargo şirketinin ihtiyacı doğrultusunda hazırlanan, küçülmeye gidilmesi
-durumunda öncelikli kapatılacak şubelerin tespiti için karar destek sistemi
-oluşturulmuştur. Ayrıca personel verimliliğini arttırmak adına verilen performans
-puanlarının takibi ve ortalama performans puanını (5.0) düşüren personellerin tespit
-edilip yakından incelenmesi de hedeflenmiştir. Bunların dışında şubelere ait araç
-bilgilerine de hazırlanan dashboard üzerinden erişilebilmektedir.
+In accordance with the needs of the cargo company, a decision support system has been developed for the identification of branches that should be prioritized for closure in the event of downsizing. Additionally, the system aims to monitor performance scores provided to enhance staff productivity and to pinpoint employees whose performance is falling below the average score of 5.0 for further examination. Furthermore, a dashboard has been prepared to provide access to vehicle information related to the branches.
