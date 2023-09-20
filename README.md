@@ -83,8 +83,8 @@ An example of a trigger that automatically adds information about deleted person
 
 
 
-<h1>Technologies Used in the Project:</h1>
----
+<h1>Technologies Used in the Project</h1>
+
 Software/Tools: Microsoft VS Code, WampServer64
 
 Web Server: Apache 2.4.46
