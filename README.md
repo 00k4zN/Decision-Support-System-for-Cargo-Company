@@ -42,6 +42,7 @@ Finally, when a manager wants to open a new branch, they can add a new branch fr
 The project primarily employed a quantitative research methodology. The information and analyses required for a cargo operation were created using numerical data and presented to the management. The data that middle-level managers most needed for making semi-structured and non-structured decisions were expressed through tables and graphs. The prepared dashboard is user-friendly and interactive, designed to enable middle-level managers to use it with little or no assistance from a Management Information Systems Specialist.
 
 The Cargo Decision Support System project is primarily designed for strategic and tactical-level managers, providing decision support and facilitating cross-level integration when needed.
+---
 
 During the software development process of the project, the Waterfall Model was utilized. In the Waterfall method, the software development process consists of stages such as analysis, design, coding, testing, release, and maintenance. In traditional software methodologies, these stages proceed linearly, similar to the cascade model.
 ---
