@@ -91,10 +91,12 @@ An example of a trigger that automatically adds information about deleted person
 Software/Tools:Microsoft VS Code, WampServer64
 
 Web Server:Apache 2.4.46
-                                                                                  <div align="center">
-                                                                                  <img src="https://static.scarf.sh/a.png?x-pxid=cf317fe7-2188-4721-bc01-124bb5d5dbb2" />                                                                                                
+                                                                                                                                                                                
 Programming Languages:PHP, JavaScript, SQL
 
 Markup Languages:HTML5, CSS3
 
 Database/Database Management Software:MySQL/PhpMyAdmin
+
+<div align="center">
+<img src="https://static.scarf.sh/a.png?x-pxid=cf317fe7-2188-4721-bc01-124bb5d5dbb2" />
