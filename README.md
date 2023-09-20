@@ -27,6 +27,7 @@ The criterion that the company relies on for employee productivity is reflected 
 
 
 Another page on the dashboard is the "Vehicles" page, where the vehicles belonging to branches are listed and examined. On this screen, the vehicles used by each branch, their makes and models, types, and annual total vehicle maintenance expenses are displayed. The most frequently preferred vehicle model among the available vehicles is indicated in the cards at the top of the screen. This information can be considered when making decisions about vehicle purchases, enabling bulk vehicle purchases to be made accordingly.
+---
 
 In addition to this, the cargo capacity of the existing vehicles is also taken into account. You can access information about the model of the vehicle with the largest and the smallest cargo capacity from this screen.
 ---
@@ -40,6 +41,7 @@ Finally, when a manager wants to open a new branch, they can add a new branch fr
 <h1>SECTION - 2</h1>
 
 The project primarily employed a quantitative research methodology. The information and analyses required for a cargo operation were created using numerical data and presented to the management. The data that middle-level managers most needed for making semi-structured and non-structured decisions were expressed through tables and graphs. The prepared dashboard is user-friendly and interactive, designed to enable middle-level managers to use it with little or no assistance from a Management Information Systems Specialist.
+---
 
 The Cargo Decision Support System project is primarily designed for strategic and tactical-level managers, providing decision support and facilitating cross-level integration when needed.
 ---
