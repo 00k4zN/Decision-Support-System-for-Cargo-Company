@@ -98,5 +98,3 @@ Markup Languages:HTML5, CSS3
 
 Database/Database Management Software:MySQL/PhpMyAdmin
 
-<div align="center">
-<img src="https://static.scarf.sh/a.png?x-pxid=cf317fe7-2188-4721-bc01-124bb5d5dbb2" />
