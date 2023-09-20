@@ -85,12 +85,12 @@ An example of a trigger that automatically adds information about deleted person
 
 <h1>Technologies Used in the Project</h1>
 
-Software/Tools: Microsoft VS Code, WampServer64
+Software/Tools:Microsoft VS Code, WampServer64
 
-Web Server: Apache 2.4.46
+Web Server:Apache 2.4.46
 
-Programming Languages: PHP, JavaScript, SQL
+Programming Languages:PHP, JavaScript, SQL
 
-Markup Languages: HTML5, CSS3
+Markup Languages:HTML5, CSS3
 
-Database/Database Management Software: MySQL/PhpMyAdmin
+Database/Database Management Software:MySQL/PhpMyAdmin
